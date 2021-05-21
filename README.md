@@ -8,6 +8,8 @@
 
 ```css
     
+    /* Animation Effect */
+    
     .target {
     visibility: hidden;
     opacity: 0;
