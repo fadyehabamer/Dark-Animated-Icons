@@ -14,7 +14,7 @@
     transition: transform 0.3s ease-in-out, visibility 0s, opacity 0.5s ease-in-out;
     }
     
-    .target:hover{
+    .target:hover {
     visibility: visible;
     opacity: 1;
     transform: rotate(360deg);
